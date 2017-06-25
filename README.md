@@ -1,6 +1,6 @@
 # Justin Pille
 
-[Daroun]((https://justinpille.github.io/daroun/)
+[Daroun](https://justinpille.github.io/daroun/)
 
 [Subsets](https://justinpille.github.io/subsets/)
 
