@@ -4,7 +4,7 @@
 
 [Subsets](https://justinpille.github.io/subsets/)
 
-[Higher Order Components](https://justinpille.github.io/hoc/)
+[Higher Order Components](https://gist.github.com/justinpille)
 
 [Elearning Stories](https://justinpille.github.io/elearning-stories/)
 
