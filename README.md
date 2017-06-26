@@ -4,7 +4,9 @@
 
 [Subsets](https://justinpille.github.io/subsets/)
 
-[Higher Order Components](https://gist.github.com/justinpille)
+[Higher Order Components](https://gist.github.com/justinpille/)
+
+[Atomic Experiments](https://justinpille.github.io/atomic-experiments/)
 
 [Elearning Stories](https://justinpille.github.io/elearning-stories/)
 
