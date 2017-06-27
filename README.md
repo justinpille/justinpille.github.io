@@ -2,6 +2,8 @@
 
 [Daroun](https://justinpille.github.io/daroun/)
 
+[Deck](https://justinpille.github.io/deck/)
+
 [Subsets](https://justinpille.github.io/subsets/)
 
 [Higher Order Components](https://gist.github.com/justinpille/)
