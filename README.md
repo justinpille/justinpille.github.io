@@ -1,7 +1,5 @@
 # Justin Pille
 
-(work in progress)
-
 [Resume](https://justinpille.github.io/resume/)
 
 [School Artifacts](https://justinpille.github.io/school-artifacts/)
