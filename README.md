@@ -1,5 +1,9 @@
 # Justin Pille
 
+I consolidate ideas into instructions that even a computer can follow.
+
+---
+
 [Resume](https://justinpille.github.io/resume/)
 
 [School Artifacts](https://justinpille.github.io/school-artifacts/)
