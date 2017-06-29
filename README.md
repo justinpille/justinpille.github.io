@@ -1,6 +1,6 @@
 # Justin Pille
 
-I consolidate ideas into instructions that even a computer can follow.
+I consolidate ideas into simple instructions that even a computer can understand.
 
 ---
 
