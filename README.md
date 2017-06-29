@@ -14,12 +14,12 @@
 
 ---
 
-[daroun](https://justinpille.github.io/daroun/)
-
-[29](#)
-
 [deck](https://justinpille.github.io/deck/)
 
 [subsets](https://justinpille.github.io/subsets/)
+
+[29](#)
+
+[daroun](https://justinpille.github.io/daroun/)
 
 [timing](#)
