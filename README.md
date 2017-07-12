@@ -22,7 +22,7 @@ Organizing ideas into instructions that even a computer can understand.
 
 [subsets](https://justinpille.github.io/subsets/)
 
-[29](#)
+[29](https://justinpille.github.io/twenty-nine/)
 
 [daroun](https://justinpille.github.io/daroun/)
 
